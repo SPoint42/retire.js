@@ -14,7 +14,7 @@
   "dependencies": {
     "underscore"     : "1.4.x",
     "commander"	     : "2.0.x",
-    "read-installed" : "0.2.x",
+    "read-installed" : "4.0.2",
     "walkdir"        : "0.0.7",
     "request"        : "~2.27.0"
   },
